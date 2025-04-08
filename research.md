@@ -10,7 +10,7 @@ title: Research
 </p>
 
 <h3>Publications</h3>
-<ul>
+<ol>
   <li><em>Ghosh Dastidar K., Caelen O., Granitzer M.</em> <strong>Machine Learning Methods for Credit Card Fraud Detection: A Survey</strong>. IEEE ACCESS, 2024.</li>
   <li><em>Guilbert T., Caelen O., Chirita A., Saerens M.</em> <strong>Calibration Methods in Imbalanced Binary Classification</strong>. Annals of Mathematics and Artificial Intelligence, 2024.</li>
   <li><em>Lunghi D., Paldino G.M., Caelen O., Bontempi G.</em> <strong>An adversary model of fraudsters’ behaviour to improve oversampling in credit card fraud detection</strong>. IEEE ACCESS, 2023.</li>
@@ -56,7 +56,7 @@ title: Research
   <li><em>Caelen O., Bontempi G.</em> <strong>How to allocate a restricted budget of leave-one-out assessments for effective model selection in machine learning</strong>. BENELEARN, 2005.</li>
   <li><em>Meyer P.E., Caelen O., Bontempi G.</em> <strong>Speeding up Feature Selection by Using an Information Theoretic Bound</strong>. BENELEARN, 2005.</li>
   <li><em>Bontempi G., Caelen O., Pierret S., Goffaux C.</em> <strong>On the use of supervised learning techniques to speed up the design of aeronautics components</strong>. WSEAS Transactions on Systems, 2005.</li>
-</ul>
+</ol>
 
 <p>
   Please also visit my <a href="https://scholar.google.com">Google Scholar</a> or <a href="https://orcid.org/0000-0001-6970-9825">ORCID</a> profile for more information.
