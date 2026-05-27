@@ -2,6 +2,7 @@
 
 Olivier Caelen is an Associate Professor in Statistics and Machine Learning at UCLouvain, within the Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA) and LIDAM.
 
+Canonical website: https://oliviercaelen.be/
 Official profile: https://www.uclouvain.be/en/people/olivier.caelen
 LinkedIn: https://www.linkedin.com/in/oliviercaelen/
 ORCID: https://orcid.org/0000-0001-6970-9825

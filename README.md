@@ -8,6 +8,8 @@ Use the repository root as the GitHub Pages publishing source. The homepage is `
 
 The `.nojekyll` file disables Jekyll processing, which keeps GitHub Pages from trying to build this plain HTML/CSS site.
 
+The custom domain is `oliviercaelen.be`; GitHub Pages reads it from the `CNAME` file.
+
 ## Updating the site
 
 - Edit `index.html` for content changes.
