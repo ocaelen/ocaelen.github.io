@@ -1,0 +1,25 @@
+# Olivier Caelen
+
+Olivier Caelen is an Associate Professor in Statistics and Machine Learning at UCLouvain, within the Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA) and LIDAM.
+
+Official profile: https://www.uclouvain.be/en/people/olivier.caelen
+LinkedIn: https://www.linkedin.com/in/oliviercaelen/
+ORCID: https://orcid.org/0000-0001-6970-9825
+
+Research interests:
+- Statistical machine learning
+- Model calibration and uncertainty quantification
+- Causal inference and causal discovery
+- Fairness in statistical learning
+- Anomaly detection in high-dimensional data
+- Deep neural networks
+
+Teaching:
+- LPSP1306 - Statistics: descriptive analysis and GLM multivariate data modeling
+- LSTAT2110 - Data Analysis
+- LDATS2350 - Data Mining
+
+Book:
+- Olivier Caelen and Marie-Alice Blete. Developing Apps with GPT-4 and ChatGPT, 2nd edition. O'Reilly Media, October 2024. ISBN 9781098152482.
+
+The main webpage is index.html. Publications are listed in descending order from 47 to 1 in the Publications section.
