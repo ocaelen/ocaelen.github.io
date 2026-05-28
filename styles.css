@@ -194,6 +194,11 @@ h3 {
   font-size: 0.96rem;
 }
 
+.section-link {
+  margin-bottom: 1.25rem;
+  font-size: 0.96rem;
+}
+
 .lead {
   font-size: 1.14rem;
   line-height: 1.7;
